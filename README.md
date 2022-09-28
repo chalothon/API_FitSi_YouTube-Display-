@@ -1,5 +1,6 @@
 # api-system-fitsi
 Code on local can use this code deploy on gcp <br/>
+Python Version 3.9.6 <br/>
 And don't forget requirements.txt
 
 ```console
