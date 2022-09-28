@@ -2,7 +2,7 @@
 Code on local can use this code deploy on gcp <br/>
 And don't forget requirements.txt
 
-```powershell
+```console
 pip install -r requirements.txt
 ```
 
