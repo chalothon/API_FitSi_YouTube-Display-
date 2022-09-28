@@ -9,7 +9,7 @@ import pytz
 
 tz = pytz.timezone('Asia/Bangkok')
 
-PATH = os.path.join(os.getcwd() , 'mobile-app-project-345002-981bb55ab09d.json')
+PATH = os.path.join(os.getcwd() , '###.json')
 os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = PATH
 storage_client = storage.Client(PATH)
 
