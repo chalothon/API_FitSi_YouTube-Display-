@@ -1,5 +1,10 @@
 # api-system-fitsi
 Code on local can use this code deploy on gcp <br/>
+And don't forget requirements.txt
+
+```console
+pip install -r requirements.txt
+```
 
 Credential Key can create on gcp and change path in code
 ```python
